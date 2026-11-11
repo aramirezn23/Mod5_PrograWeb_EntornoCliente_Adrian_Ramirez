@@ -8,6 +8,6 @@ dist/
 # Archivos del sistema operativo
 Thumbs.db
 desktop.ini
-.DS_Store
+.Ds_Store
 # Archivos temporales de Office 16 
 ~$*
