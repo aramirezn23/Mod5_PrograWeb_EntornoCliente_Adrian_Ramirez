@@ -1,4 +1,5 @@
 //Trabajo diario -- Pedir datos con prompt
+
 const nombre = prompt("¿Cuál es su nombre?"); //TEXTO
 const fotos = prompt ("¿Cuántas fotos impresas quiere"); //TEXTO
 console.log ("Hola, " + nombre + "."); //UNE CADENAS
