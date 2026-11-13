@@ -2,7 +2,7 @@
 
 <h1>📘 Portafolio de Evidencias</h1>
 
-<h3>Nombre Apellido1 Apellido2</h3>
+<h3>Adrián Francisco Ramírez Navarro</h3>
 
 <strong>CSTI12004 · Programación web en el entorno cliente</strong> · Instituto Nacional de Aprendizaje
 Programa CSTI14001 Desarrollo de páginas web · Facilitador: Giovanni Antonio Coto Calderón · 2026-2027
@@ -433,10 +433,10 @@ Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
 | Indicador                                                                                      | Sí  | Aún no |
 | ---------------------------------------------------------------------------------------------- | --- | ------ |
-| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. |     |        |
-| Mi repositorio está en GitHub con el README.                                                   |     |        |
-| Distingo un error de sintaxis de uno de semántica.                                             |     |        |
-| Uso `//` para aislar un error y seguir probando.                                               |     |        |
+| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. | X   |        |
+| Mi repositorio está en GitHub con el README.                                                   | X   |        |
+| Distingo un error de sintaxis de uno de semántica.                                             | X   |        |
+| Uso `//` para aislar un error y seguir probando.                                               | X   |        |
 
 </details>
 
@@ -447,32 +447,32 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 **Cacería de errores**
 
-| #   | Mensaje de la consola | Archivo:línea | Corrección |
-| --- | --------------------- | ------------- | ---------- |
-| 1   |                       |               |            |
-| 2   |                       |               |            |
-| 3   |                       |               |            |
-| 4   |                       |               |            |
+| #   | Mensaje de la consola        | Archivo:línea | Corrección                                                                      |
+| --- | ---------------------------- | ------------- | ------------------------------------------------------------------------------- |
+| 1   | No carga el .js              |               | Se modifica el nombre al correcto                                               |
+| 2   | Faltan comillas              | Línea 3       | Se agregan comillas y el navegador lee correctamente                            |
+| 3   | console con C mayúscula      | Línea 4       | Se corrige y se quita la C mayúscula                                            |
+| 4   | Falta ; al final de la línea | Línea 5       | El sistema lo corrige automaticamente, por conveción, es ideal agregarlo manual |
 
 **Reto MVC**
 
-| Elemento | Componente | Justificación |
-| -------- | ---------- | ------------- |
-| 1        |            |               |
-| 2        |            |               |
-| 3        |            |               |
-| 4        |            |               |
-| 5        |            |               |
-| 6        |            |               |
+| Elemento                                                                                                       | Componente  | Justificación                                           |
+| -------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------- |
+| La lista de talleres con su nombre, nivel y precio guardada en el programa.                                    | Modelo      | Datos internos del sistema                              |
+| La página cursos.html con la tabla de talleres y sus estilos.                                                  | Vista       | Lo que el usuario observa                               |
+| El código que, al presionar «Enviar» en contacto.html, toma el taller elegido y pide registrar la inscripción. | Controlador | El código que gestiona los datos enviados por el usario |
+| La cantidad de cupos disponibles de cada taller.                                                               | Modelo      | Datos manejados por el sistema                          |
+| El mensaje «Inscripción recibida» que aparece en la pantalla.                                                  | Vista       | Lo que el usuario recibe                                |
+| El código que revisa que se marcó «Acepto» antes de enviar y, si no, pide a la vista mostrar un aviso.         | Controlador | El código gestionando la información recibida           |
 
 **Autoevaluación**
 
 | Indicador                                                       | Sí  | Aún no |
 | --------------------------------------------------------------- | --- | ------ |
-| Enlazo un archivo .js al final del body o en el head con defer. |     |        |
-| Uso comentarios de línea y de bloque.                           |     |        |
-| Uso \n, \t, \", \\ y \u en textos.                              |     |        |
-| Leo el tipo de error, el mensaje y la línea en la consola.      |     |        |
+| Enlazo un archivo .js al final del body o en el head con defer. | X   |        |
+| Uso comentarios de línea y de bloque.                           | X   |        |
+| Uso \n, \t, \", \\ y \u en textos.                              | X   |        |
+| Leo el tipo de error, el mensaje y la línea en la consola.      | X   |        |
 
 </details>
 
@@ -579,7 +579,7 @@ CÓMO USAR ESTE BLOQUE (Clase 04)
 
 <div align="center">
 
-<strong>Nombre Apellido1 Apellido2</strong>
+<strong>Adrián Francisco Ramírez Navarro</strong>
 
 <p>Portafolio elaborado durante el módulo CSTI12004 · Instituto Nacional de Aprendizaje · 2026-2027</p>
 
