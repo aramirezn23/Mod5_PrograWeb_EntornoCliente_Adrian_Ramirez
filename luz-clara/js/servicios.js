@@ -18,3 +18,5 @@ console.log(`Servicios: $(nombres.join(","))`);
 
 const economicos = tarifas.filter((t) => t.monto < 50000);
 console.log(`Menos de 50 000: $(economicos.lenght(","))`);
+
+//REVISAR ESTE DOCUMENTO Y CORREGIR ERRORES
